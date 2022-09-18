@@ -19,4 +19,3 @@ This project is part of Codecademy front end course.
 - Event Listener
 
 ## Launch
-Could be launch with web browser.
